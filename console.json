@@ -1,4 +1,4 @@
-[
+var json = [
     {
         "_id": "{\"project\":\"VistA-M\",\"category\":\"Clinical\",\"namespace\":\"ADVERSE REACTION TRACKING\"}",
         "title": "ADVERSE REACTION TRACKING",
